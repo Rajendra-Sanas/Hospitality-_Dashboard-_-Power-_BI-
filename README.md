@@ -23,4 +23,5 @@ Created KPIs and interactive visuals (cards, charts, slicers, tables).
 Analyzed insights on revenue, occupancy, ADR, and booking trends.
 
 ## dashboard image
+<img width="1471" height="821" alt="image" src="https://github.com/user-attachments/assets/d7d07d0c-56fa-48c5-b8f1-1af86bd6d4ad" />
 
