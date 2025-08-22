@@ -34,6 +34,7 @@ Analyzed insights on revenue, occupancy, ADR, and booking trends.
 <img width="1471" height="821" alt="image" src="https://github.com/user-attachments/assets/d7d07d0c-56fa-48c5-b8f1-1af86bd6d4ad" />
 
 ##Project Insights
+
 Total Revenue Generated: ₹2,007 Cr
 Total Revenue Realized: ₹1,709 Cr (📉 ~85.1% Realisation Rate)
 Average Occupancy %: ~58.3% across hotels
