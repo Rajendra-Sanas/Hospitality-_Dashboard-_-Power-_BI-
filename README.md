@@ -1,5 +1,5 @@
 # Hospitality_Dashboard_Power_BI
-##Project Objective
+## Project Objective
 This project aims to analyze hotel bookings, occupancy, and revenue trends using Power BI.
 The dashboard provides insights into KPIs like ADR, occupancy %, and booking patterns.
 It helps stakeholders make data-driven decisions to improve performance in the hospitality sector.
@@ -15,7 +15,7 @@ Which city, hotel, and room type generate the highest revenue?
 How do weekday vs. weekend bookings impact KPIs?
 Which booking platforms contribute to higher ADR and realisation %?
 
-##Project Process
+## Project Process
 Collected data from CSV files (hotels, rooms, bookings, dates).
 Cleaned and prepared the data for consistency and accuracy.
 Built a star schema model with fact and dimension tables in Power BI.
