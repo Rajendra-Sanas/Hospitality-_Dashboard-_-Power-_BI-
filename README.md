@@ -33,14 +33,14 @@ Analyzed insights on revenue, occupancy, ADR, and booking trends.
 ## dashboard image
 <img width="1471" height="821" alt="image" src="https://github.com/user-attachments/assets/d7d07d0c-56fa-48c5-b8f1-1af86bd6d4ad" />
 
-##Project Insights
+## Project Insights
 
 Total Revenue Generated: ₹2,007 Cr
 Total Revenue Realized: ₹1,709 Cr (📉 ~85.1% Realisation Rate)
 Average Occupancy %: ~58.3% across hotels
 ADR (Average Daily Rate): ₹14,925 per booking
 
-##Final Conclusion
+## Final Conclusion
 
 The Hospitality Analytics Dashboard successfully highlights key business metrics such as Revenue, Occupancy %, ADR, and Realisation %.
 From the analysis, we observe that Mumbai and Bangalore are the top revenue contributors, while Elite and Premium rooms generate the highest income. 
