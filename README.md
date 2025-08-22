@@ -6,13 +6,21 @@ It helps stakeholders make data-driven decisions to improve performance in the h
 
 ## Questions (KPIs)
 What is the total revenue generated across hotels and cities?
+
 What is the Revenue per Available Room (RevPAR) over time?
+
 How many Daily Sellable Room Nights (DSRN) are available?
+
 What is the overall Occupancy % across hotels and room categories?
+
 What is the Average Daily Rate (ADR) for bookings?
+
 What is the Realisation % of bookings (confirmed vs. available)?
+
 Which city, hotel, and room type generate the highest revenue?
+
 How do weekday vs. weekend bookings impact KPIs?
+
 Which booking platforms contribute to higher ADR and realisation %?
 
 ## Project Process
