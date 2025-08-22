@@ -22,3 +22,5 @@ Built a star schema model with fact and dimension tables in Power BI.
 Created KPIs and interactive visuals (cards, charts, slicers, tables).
 Analyzed insights on revenue, occupancy, ADR, and booking trends.
 
+## dashboard image
+
